@@ -10,6 +10,8 @@ To design a dimensional data model, it's essential to first understand the conce
 
 ### Dimension
 
+Dimension in data model is pretty similar to mathematical dimensions. A 2 dimensions data table storing product references and sales would be a plane. Adding another dimension, like market locations, moving from 2D to 3D data model would bring us a _cube_
+
 You can think of dimension
 
 [@IBM® Informix® Data Warehouse Guide](https://www.ibm.com/docs/en/informix-servers/14.10?topic=warehousing-dimensional-databases)
