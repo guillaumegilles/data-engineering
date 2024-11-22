@@ -1,0 +1,15 @@
+---
+title: Data Engineering
+date: 11-22-2024
+date-modified: 11-22-2024
+---
+
+## Dimensional Data Model
+
+To design a dimensional data model, it's essential to first understand the concept of dimensions in data modeling. 
+
+### Dimension
+
+You can think of dimension
+
+[@IBM® Informix® Data Warehouse Guide](https://www.ibm.com/docs/en/informix-servers/14.10?topic=warehousing-dimensional-databases)
